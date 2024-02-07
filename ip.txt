@@ -1,0 +1,11 @@
+div > data-status:
+INPROGRESS
+
+img > src:
+/s/5b7d9230-ca0a-4315-be4e-d7d208996ab8/_/download/resources/com.atlassian.bitbucket.server.bitbucket-frontend:assets-5b7d9230-ca0a-4315-be4e-d7d208996ab8/d7a8cdde7e63c5a20e9a83c9a06206b4.svg
+
+img > class:
+build-status-icon build-in-progress-icon icon-size-large
+
+name:
+In progress
